@@ -11,7 +11,7 @@ import android.widget.AbsListView;
 import android.widget.Toast;
 import android.widget.AbsListView.OnScrollListener;
 import android.widget.ListView;
-
+//author:	laixiao
 public class MainActivity extends Activity {
 	//1.下拉刷新ListView（用于设置属性）
 	PullToRefreshListView list;
